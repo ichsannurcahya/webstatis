@@ -1,0 +1,155 @@
+img {
+    width: 20%;
+}
+
+p {
+    background-color: white;
+    color: black;
+    font-family: 'Franklin Gothic';
+    text-align: justify;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+
+.back {
+    background-image: url(images/macan.jpeg);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
+
+.pback {
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.head {
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+p, ol {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+    font-family: helvetica;
+    text-align: justify;
+}
+
+Ol.a {
+    list-style-type: decimal;
+    font-family: Helvetica;
+    color: black;
+}
+
+#A {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius:  10px;
+    border: 5px solid red; 
+}
+
+#C {
+    background-color: white; 
+    width: auto;
+    height: auto;
+    border: 5px solid red;
+    color: red;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.visimisi {
+    text-align: justify;
+    color: black;
+    font-size: 100%;
+    font-family: Helvetica, sans-serif;
+
+}
+
+table, th, td {
+    border: 1px solid;
+   margin:auto;
+ }
+table {
+ width: 65%;
+ }
+
+ .par {
+    background-color: black;
+    color: white;
+    padding-top: 0;
+    padding-left: 10px;
+    border-left: 2px solid red;
+    margin-left: 12px;
+ }
+
+ .wrapper-list {
+    background-color: rgb(45, 45, 160);
+ }
+
+ a:link {
+    color: black;
+  }
+  
+  a:visited {
+    color: indigo;
+  }
+  
+ 
+  a:hover {
+    color: blanchedalmond;
+  }
+  
+  a:active {
+    color: chartreuse;
+  }
+
+  .footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    background-image: url(images/icon\ fb.png) url(images/yt\ icon.png) url(images/ig\ icon.png);
+    background-size: cover;
+    color: black;
+    font-family: monospace;
+    text-align: left;
+   
+
+ }
+
+ .fa-facebook {
+    
+    color :#3b5998; 
+    margin-left: 5%;
+ }
+
+.fa-square-instagram  {
+    color:black;
+    margin-left: 2%;
+    
+   
+ }
